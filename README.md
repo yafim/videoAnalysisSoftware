@@ -57,4 +57,4 @@ Thank you again and I hope you enjoy,
 Yafim
 
 # License
-Copyright (c) 2015 Yafim Vodkov & Licensed under the [Apache License](LICENSE.md).
+Copyright (c) 2016 Yafim Vodkov & Licensed under the [Apache License](LICENSE.md).
