@@ -1,10 +1,10 @@
-# INTRODUCTION
+# Introduction
 This Video player analyzes a JSON file containing coordinates and timestamps (the JSON data corresponds to the frames in a video track - this file will be built in advance using EyeLog software) to present relevant pixels, according to time, on the screen using heatmap.js.
 
 # Motivation
 * Understanding user's video viewing behavior (Eye tracking technology, EEG, Cursor behavior, etc.) 
 
-# REQUIREMENTS
+# Requirements
 * Create JSON file with EyeLog (based on eyeTribe software) - [EyeLog  GitHub](https://github.com/yafim/eyeLog)
 * JSON example containing 2 coordinates
 Note! You can generate your own json file from any eye tracker using this format
