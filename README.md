@@ -5,7 +5,7 @@ This Video player analyzes a JSON file containing coordinates and timestamps (th
 * Understanding user's video viewing behavior (Eye tracking technology, EEG, Cursor behavior, etc.) 
 
 # Requirements
-* Create JSON file with EyeLog (based on eyeTribe software) - [EyeLog  GitHub](https://github.com/yafim/eyeLog)
+* Create JSON with provided software (./tet/TETWinSamples.sln) - [EyeTribe  GitHub](https://github.com/EyeTribe/tet-csharp-samples)
 * JSON example containing 2 coordinates
 Note! You can generate your own json file from any eye tracker using this format
 
