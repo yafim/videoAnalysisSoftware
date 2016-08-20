@@ -2,7 +2,7 @@
 This Video player analyzes a JSON file containing coordinates and timestamps (the JSON data corresponds to the frames in a video track - this file will be built in advance using some eyetracker and eye tracking software) to present relevant pixels, according to time, on the screen using heatmap.js.
 
 # Motivation
-* Understanding user's video viewing behavior (Eye tracking technology, EEG, Cursor behavior, etc.) 
+* Understanding user's viewing/reading behavior (Eye tracking technology, EEG, Cursor behavior, etc.) 
 
 # Requirements
 * Create JSON with provided software (./tet/TETWinSamples.sln) - [EyeTribe  GitHub](https://github.com/EyeTribe/tet-csharp-samples)
