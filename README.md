@@ -1,13 +1,12 @@
 # Introduction
-This Video player analyzes a JSON file containing coordinates and timestamps (the JSON data corresponds to the frames in a video track - this file will be built in advance using EyeLog software) to present relevant pixels, according to time, on the screen using heatmap.js.
+This Video player analyzes a JSON file containing coordinates and timestamps (the JSON data corresponds to the frames in a video track - this file will be built in advance using some eyetracker and eye tracking software) to present relevant pixels, according to time, on the screen using heatmap.js.
 
 # Motivation
-* Understanding user's video viewing behavior (Eye tracking technology, EEG, Cursor behavior, etc.) 
+* Understanding user's viewing/reading behavior (Eye tracking technology, EEG, Cursor behavior, etc.) 
 
 # Requirements
-* Create JSON file with EyeLog (based on eyeTribe software) - [EyeLog  GitHub](https://github.com/yafim/eyeLog)
-* JSON example containing 2 coordinates
-Note! You can generate your own json file from any eye tracker using this format
+* Create JSON with provided software (./tet/TETWinSamples.sln) - [EyeTribe  GitHub](https://github.com/EyeTribe/tet-csharp-samples)
+* Note! You can generate your own json file from any eye tracker using this format (JSON example containing 2 coordinates)
 
 ```<JSON>
 {
@@ -30,7 +29,7 @@ Note! You can generate your own json file from any eye tracker using this format
 
 # How to use it
 * Open the program using provided nwjs version (./nwjs-v0.12.3-win-x64) [NWJS  GitHub](https://github.com/nwjs/nw.js) as follows:
-* From cmd:
+	* From cmd:
 	```
 	.\nwjs-v0.12.3-win-x64\nw.exe .\app\
 	```
@@ -38,6 +37,14 @@ Note! You can generate your own json file from any eye tracker using this format
 * Mark relevant AOIs in the video. 
 * Play the video (with log file).
 * By clicking on View->Statistics you'll be able to analyse the user's gaze during the video related to the AOIs you chose.
+
+
+#Some pictures
+![pic](https://s4.postimg.org/6a1hl76jx/1471704554496.png)
+![pic](https://s4.postimg.org/sgooe2i59/1471704602464.png)
+![statistics](https://s4.postimg.org/l1nem0t19/statistics.png)
+![heatmap](https://s4.postimg.org/vaxuew659/1471706373029.png)
+
 
 # Beta disclaimer
 Please note that this is a beta version and still undergoing final testing and modifications.
