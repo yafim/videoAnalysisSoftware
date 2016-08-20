@@ -52,7 +52,12 @@ app.controller('NavbarCtrl', function ($scope, sharedProperties, ngDialog, logFi
         className: 'ngdialog-theme-default ngdialog-theme-custom'
       });
   }
-  
+
+  // Reset all data
+  function resetData(){
+    sharedProperties.setListOfRectangles('');
+    console.log("Reset");
+  }  
 
   /* File tab */
   $scope.file = [
@@ -119,10 +124,16 @@ app.controller('NavbarCtrl', function ($scope, sharedProperties, ngDialog, logFi
   $scope.view = [{
     name: "Main Page",
     link: "/"
-    },{
+    },
+    {
+    name: "Reset data",
+    link: resetData
+    },
+    {
     name: "Statistics",
     link: "/statistics"
-  }]; 
+    }
+  ]; 
   
 });
 

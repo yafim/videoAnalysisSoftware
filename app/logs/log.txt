@@ -5942,3 +5942,911 @@
 [INFO]   [20/8/2016 16:37:52]    Initialized: directory set with screenshots
 [INFO]   [20/8/2016 16:37:52]    Settings file is ready. 
 [INFO]   [20/8/2016 16:37:52]    SettingsFileReadyEvent---Service
+[INFO][20/8/2016 17:23:14]
+[INFO][20/8/2016 17:23:14] ***************************   
+[INFO][20/8/2016 17:23:14] ******  New Log File ******   
+[INFO][20/8/2016 17:23:14] ***************************   
+[INFO][20/8/2016 17:23:14]
+[INFO]   [20/8/2016 17:23:15]    Reading settings file.
+[INFO]   [20/8/2016 17:23:15]    Settings initialized
+[INFO]   [20/8/2016 17:23:15]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:23:15]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:23:15]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:23:15]    Settings file is ready. 
+[INFO]   [20/8/2016 17:23:15]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 17:23:36]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\logs\20-08-2016_02-56-13-PM.json
+[INFO]   [20/8/2016 17:23:44]    Error: ENOENT: no such file or directory, open 'C:\Users\ifimv_000\Documents\Projects\Doron\app\app\screenshots\1471703023928.png'
+[INFO]   [20/8/2016 17:23:45]    Screenshot is saved.
+[INFO]   [20/8/2016 17:23:52]    Precision before : 0.008
+[INFO]   [20/8/2016 17:23:52]    SeekBar: 8
+[INFO]   [20/8/2016 17:23:52]    COLOR: #FF3232
+[INFO]   [20/8/2016 17:23:52]    These are the setting files:  brown color
+[INFO]   [20/8/2016 17:24:4]    Precision changed to: 0.008
+[INFO]   [20/8/2016 17:24:4]    Color changed to (RGB): #FF3232
+[INFO]   [20/8/2016 17:24:4]    Directory changed to: C:\Users\ifimv_000\Desktop\my_screen
+[INFO]   [20/8/2016 17:24:6]    Screenshot is saved.
+[INFO]   [20/8/2016 17:24:26]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\logs\20-08-2016_02-56-13-PM.json
+[INFO]   [20/8/2016 17:24:50]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:24:52]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:25:1]    Form has changed
+[INFO]   [20/8/2016 17:25:1]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:25:1]    Form values are updated
+[DEBUG]   [20/8/2016 17:25:1]    Box end time: 6.473916
+[INFO]   [20/8/2016 17:25:3]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:25:3]    Form values are updated
+[DEBUG]   [20/8/2016 17:25:3]    Box end time: 7.204842
+[INFO]   [20/8/2016 17:25:9]    ====== Box Created ======
+[INFO]   [20/8/2016 17:25:13]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:25:26]    Screenshot is saved.
+[INFO]   [20/8/2016 17:25:28]    Clearing rectangle.
+[INFO]   [20/8/2016 17:25:46]    Screenshot is saved.
+[INFO][20/8/2016 17:23:14]
+[INFO][20/8/2016 17:23:14] ***************************   
+[INFO][20/8/2016 17:23:14] ******  New Log File ******   
+[INFO][20/8/2016 17:23:14] ***************************   
+[INFO][20/8/2016 17:23:14]
+[INFO]   [20/8/2016 17:25:59]    Reading settings file.
+[INFO][20/8/2016 17:23:14]
+[INFO][20/8/2016 17:23:14] ***************************   
+[INFO][20/8/2016 17:23:14] ******  New Log File ******   
+[INFO][20/8/2016 17:23:14] ***************************   
+[INFO][20/8/2016 17:23:14]
+[INFO]   [20/8/2016 17:26:23]    Reading settings file.
+[INFO][20/8/2016 17:26:47]
+[INFO][20/8/2016 17:26:47] ***************************   
+[INFO][20/8/2016 17:26:47] ******  New Log File ******   
+[INFO][20/8/2016 17:26:47] ***************************   
+[INFO][20/8/2016 17:26:47]
+[INFO]   [20/8/2016 17:26:47]    Reading settings file.
+[INFO]   [20/8/2016 17:26:47]    Settings initialized
+[INFO]   [20/8/2016 17:26:47]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:26:47]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:26:47]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:26:47]    Settings file is ready. 
+[INFO]   [20/8/2016 17:26:47]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 17:27:5]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\logs\20-08-2016_02-56-13-PM.json
+[INFO]   [20/8/2016 17:27:7]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:8]    Form values are updated
+[INFO]   [20/8/2016 17:27:12]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:12]    Form values are updated
+[INFO]   [20/8/2016 17:27:14]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:14]    Form values are updated
+[INFO]   [20/8/2016 17:27:15]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:15]    Form values are updated
+[INFO]   [20/8/2016 17:27:16]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:16]    Form values are updated
+[INFO]   [20/8/2016 17:27:20]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:20]    Form values are updated
+[INFO]   [20/8/2016 17:27:21]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:21]    Form values are updated
+[INFO]   [20/8/2016 17:27:22]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:22]    Form values are updated
+[INFO]   [20/8/2016 17:27:25]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:25]    Form values are updated
+[INFO]   [20/8/2016 17:27:26]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:26]    Form values are updated
+[DEBUG]   [20/8/2016 17:27:34]    Form has changed
+[INFO]   [20/8/2016 17:27:35]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:35]    Form values are updated
+[DEBUG]   [20/8/2016 17:27:35]    Box end time: 19.31733
+[INFO]   [20/8/2016 17:27:36]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:36]    Box end time: 19.83942
+[DEBUG]   [20/8/2016 17:27:36]    Form values are updated
+[INFO]   [20/8/2016 17:27:37]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:37]    Form values are updated
+[DEBUG]   [20/8/2016 17:27:37]    Box end time: 20.309301
+[INFO]   [20/8/2016 17:27:38]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:38]    Form values are updated
+[DEBUG]   [20/8/2016 17:27:38]    Box end time: 21.092436
+[INFO]   [20/8/2016 17:27:40]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:27:40]    Form values are updated
+[DEBUG]   [20/8/2016 17:27:40]    Box end time: 21.457899
+[INFO]   [20/8/2016 17:27:44]    ====== Box Created ======
+[INFO]   [20/8/2016 17:27:45]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:27:47]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:27:48]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:27:48]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:28:3]    Form has changed
+[INFO]   [20/8/2016 17:28:3]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:28:3]    Form values are updated
+[DEBUG]   [20/8/2016 17:28:3]    Box end time: 19.108494
+[INFO]   [20/8/2016 17:28:4]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:28:4]    Form values are updated
+[DEBUG]   [20/8/2016 17:28:4]    Box end time: 19.996047
+[INFO]   [20/8/2016 17:28:5]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:28:5]    Form values are updated
+[DEBUG]   [20/8/2016 17:28:5]    Box end time: 20.779182
+[INFO]   [20/8/2016 17:28:6]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:28:6]    Form values are updated
+[DEBUG]   [20/8/2016 17:28:6]    Box end time: 21.196854
+[INFO]   [20/8/2016 17:28:7]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:28:7]    Clearing rectangle.
+[DEBUG]   [20/8/2016 17:28:7]    Box end time: 21.875571
+[DEBUG]   [20/8/2016 17:28:7]    Form values are updated
+[INFO]   [20/8/2016 17:28:9]    ====== Box Created ======
+[INFO]   [20/8/2016 17:28:13]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:28:13]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:28:14]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:28:15]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:28:16]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:28:17]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:28:17]    Clearing rectangle.
+[DEBUG]   [20/8/2016 17:28:27]    Form has changed
+[INFO]   [20/8/2016 17:28:27]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:28:27]    Form values are updated
+[DEBUG]   [20/8/2016 17:28:27]    Box end time: 19.056285
+[INFO]   [20/8/2016 17:28:28]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:28:28]    Form values are updated
+[DEBUG]   [20/8/2016 17:28:28]    Box end time: 19.735002
+[INFO]   [20/8/2016 17:28:29]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:28:29]    Form values are updated
+[DEBUG]   [20/8/2016 17:28:29]    Box end time: 20.309301
+[INFO]   [20/8/2016 17:28:30]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:28:30]    Form values are updated
+[DEBUG]   [20/8/2016 17:28:30]    Box end time: 20.831391
+[INFO]   [20/8/2016 17:28:31]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:28:31]    Form values are updated
+[DEBUG]   [20/8/2016 17:28:31]    Box end time: 21.457899
+[INFO]   [20/8/2016 17:28:33]    ====== Box Created ======
+[INFO]   [20/8/2016 17:28:35]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:28:35]    Clearing rectangle.
+[INFO]   [20/8/2016 17:28:43]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\logs\20-08-2016_02-56-13-PM.json
+[INFO]   [20/8/2016 17:28:45]    Clearing rectangle.
+[INFO]   [20/8/2016 17:28:49]    Error: ENOENT: no such file or directory, open 'C:\Users\ifimv_000\Documents\Projects\Doron\app\app\screenshots\1471703329071.png'
+[INFO]   [20/8/2016 17:28:51]    Screenshot is saved.
+[INFO]   [20/8/2016 17:28:51]    Clearing rectangle.
+[INFO]   [20/8/2016 17:28:51]    Clearing rectangle.
+[INFO]   [20/8/2016 17:28:52]    Clearing rectangle.
+[INFO]   [20/8/2016 17:28:53]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:28:55]    Precision before : 0.008
+[INFO]   [20/8/2016 17:28:55]    SeekBar: 8
+[INFO]   [20/8/2016 17:28:55]    COLOR: #FF3232
+[INFO]   [20/8/2016 17:28:55]    These are the setting files:  brown color
+[INFO]   [20/8/2016 17:29:9]    Precision changed to: 0.008
+[INFO]   [20/8/2016 17:29:9]    Color changed to (RGB): #FF3232
+[INFO]   [20/8/2016 17:29:9]    Directory changed to: C:\Users\ifimv_000\Desktop\my_screen
+[INFO]   [20/8/2016 17:29:14]    Screenshot is saved.
+[INFO]   [20/8/2016 17:29:17]    Screenshot is saved.
+[INFO]   [20/8/2016 17:29:18]    Screenshot is saved.
+[INFO]   [20/8/2016 17:29:20]    Screenshot is saved.
+[INFO]   [20/8/2016 17:29:20]    Clearing rectangle.
+[INFO]   [20/8/2016 17:29:20]    Clearing rectangle.
+[INFO]   [20/8/2016 17:29:21]    Screenshot is saved.
+[INFO]   [20/8/2016 17:29:21]    Clearing rectangle.
+[INFO][20/8/2016 17:34:8]
+[INFO][20/8/2016 17:34:8] ***************************   
+[INFO][20/8/2016 17:34:8] ******  New Log File ******   
+[INFO][20/8/2016 17:34:8] ***************************   
+[INFO][20/8/2016 17:34:8]
+[INFO]   [20/8/2016 17:34:8]    Reading settings file.
+[INFO]   [20/8/2016 17:34:8]    Settings initialized
+[INFO]   [20/8/2016 17:34:8]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:34:8]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:34:8]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:34:8]    Settings file is ready. 
+[INFO]   [20/8/2016 17:34:8]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 17:34:28]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[INFO][20/8/2016 17:34:8]
+[INFO][20/8/2016 17:34:8] ***************************   
+[INFO][20/8/2016 17:34:8] ******  New Log File ******   
+[INFO][20/8/2016 17:34:8] ***************************   
+[INFO][20/8/2016 17:34:8]
+[INFO]   [20/8/2016 17:34:34]    Reading settings file.
+[INFO][20/8/2016 17:34:36]
+[INFO][20/8/2016 17:34:36] ***************************   
+[INFO][20/8/2016 17:34:36] ******  New Log File ******   
+[INFO][20/8/2016 17:34:36] ***************************   
+[INFO][20/8/2016 17:34:36]
+[INFO]   [20/8/2016 17:34:36]    Reading settings file.
+[INFO]   [20/8/2016 17:34:36]    Settings initialized
+[INFO]   [20/8/2016 17:34:36]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:34:36]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:34:36]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:34:36]    Settings file is ready. 
+[INFO]   [20/8/2016 17:34:36]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 17:34:42]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[DEBUG]   [20/8/2016 17:34:49]    Form has changed
+[INFO]   [20/8/2016 17:34:49]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:34:50]    Form values are updated
+[DEBUG]   [20/8/2016 17:34:50]    Box end time: 7.570305
+[INFO]   [20/8/2016 17:34:52]    ====== Box Created ======
+[DEBUG]   [20/8/2016 17:34:55]    Form has changed
+[INFO]   [20/8/2016 17:34:55]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:34:55]    Form values are updated
+[DEBUG]   [20/8/2016 17:34:55]    Box end time: 10.389591
+[INFO]   [20/8/2016 17:34:57]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:34:57]    Form values are updated
+[DEBUG]   [20/8/2016 17:34:57]    Box end time: 11.329353
+[INFO]   [20/8/2016 17:34:58]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:34:58]    Box end time: 12.477951
+[DEBUG]   [20/8/2016 17:34:58]    Form values are updated
+[INFO]   [20/8/2016 17:34:59]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:34:59]    Form values are updated
+[DEBUG]   [20/8/2016 17:34:59]    Box end time: 18.79524
+[INFO]   [20/8/2016 17:35:0]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:35:0]    Form values are updated
+[DEBUG]   [20/8/2016 17:35:0]    Box end time: 26.156709
+[INFO]   [20/8/2016 17:35:2]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:35:2]    Form values are updated
+[DEBUG]   [20/8/2016 17:35:2]    Box end time: 27.879606
+[INFO]   [20/8/2016 17:35:3]    ====== Box Created ======
+[DEBUG]   [20/8/2016 17:35:8]    Form has changed
+[INFO]   [20/8/2016 17:35:8]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:35:8]    Form values are updated
+[DEBUG]   [20/8/2016 17:35:8]    Box end time: 28.610532
+[INFO]   [20/8/2016 17:35:9]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:35:9]    Form values are updated
+[DEBUG]   [20/8/2016 17:35:9]    Box end time: 30.907728
+[INFO]   [20/8/2016 17:35:10]    ====== Box Created ======
+[INFO]   [20/8/2016 17:35:11]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:35:20]    Clearing rectangle.
+[INFO]   [20/8/2016 17:35:41]    Clearing rectangle.
+[INFO]   [20/8/2016 17:35:44]    Clearing rectangle.
+[INFO][20/8/2016 17:42:11]
+[INFO][20/8/2016 17:42:11] ***************************   
+[INFO][20/8/2016 17:42:11] ******  New Log File ******   
+[INFO][20/8/2016 17:42:11] ***************************   
+[INFO][20/8/2016 17:42:11]
+[INFO]   [20/8/2016 17:42:11]    Reading settings file.
+[INFO]   [20/8/2016 17:42:11]    Settings initialized
+[INFO]   [20/8/2016 17:42:11]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:42:11]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:42:11]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:42:11]    Settings file is ready. 
+[INFO]   [20/8/2016 17:42:11]    SettingsFileReadyEvent---Service
+[INFO][20/8/2016 17:42:13]
+[INFO][20/8/2016 17:42:13] ***************************   
+[INFO][20/8/2016 17:42:13] ******  New Log File ******   
+[INFO][20/8/2016 17:42:13] ***************************   
+[INFO][20/8/2016 17:42:13]
+[INFO]   [20/8/2016 17:42:13]    Reading settings file.
+[INFO]   [20/8/2016 17:42:13]    Settings initialized
+[INFO]   [20/8/2016 17:42:13]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:42:13]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:42:13]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:42:13]    Settings file is ready. 
+[INFO]   [20/8/2016 17:42:13]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 17:42:22]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[INFO][20/8/2016 17:42:13]
+[INFO][20/8/2016 17:42:13] ***************************   
+[INFO][20/8/2016 17:42:13] ******  New Log File ******   
+[INFO][20/8/2016 17:42:13] ***************************   
+[INFO][20/8/2016 17:42:13]
+[INFO]   [20/8/2016 17:42:31]    Reading settings file.
+[INFO][20/8/2016 17:42:32]
+[INFO][20/8/2016 17:42:32] ***************************   
+[INFO][20/8/2016 17:42:32] ******  New Log File ******   
+[INFO][20/8/2016 17:42:32] ***************************   
+[INFO][20/8/2016 17:42:32]
+[INFO]   [20/8/2016 17:42:32]    Reading settings file.
+[INFO]   [20/8/2016 17:42:32]    Settings initialized
+[INFO]   [20/8/2016 17:42:32]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:42:32]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:42:32]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:42:32]    Settings file is ready. 
+[INFO]   [20/8/2016 17:42:32]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 17:42:39]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[DEBUG]   [20/8/2016 17:42:44]    Form has changed
+[INFO]   [20/8/2016 17:42:44]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:42:45]    Form values are updated
+[DEBUG]   [20/8/2016 17:42:45]    Box end time: 0.835344
+[INFO]   [20/8/2016 17:42:48]    ====== Box Created ======
+[DEBUG]   [20/8/2016 17:42:52]    Form has changed
+[INFO]   [20/8/2016 17:42:52]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:42:52]    Box end time: 4.020093
+[DEBUG]   [20/8/2016 17:42:52]    Form values are updated
+[INFO]   [20/8/2016 17:42:54]    ====== Box Created ======
+[DEBUG]   [20/8/2016 17:42:58]    Form has changed
+[INFO]   [20/8/2016 17:42:58]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:42:58]    Form values are updated
+[DEBUG]   [20/8/2016 17:42:58]    Box end time: 6.78717
+[INFO]   [20/8/2016 17:42:59]    ====== Box Created ======
+[INFO]   [20/8/2016 17:43:1]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:43:3]    Clearing rectangle.
+[INFO]   [20/8/2016 17:43:7]    Clearing rectangle.
+[INFO]   [20/8/2016 17:43:9]    Clearing rectangle.
+[DEBUG]   [20/8/2016 17:43:16]    Form has changed
+[INFO]   [20/8/2016 17:43:16]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:43:16]    Form values are updated
+[DEBUG]   [20/8/2016 17:43:16]    Box end time: 10.337382
+[INFO]   [20/8/2016 17:43:17]    ====== Box Created ======
+[INFO]   [20/8/2016 17:43:18]    ====== seekbar changed ======
+[INFO][20/8/2016 17:42:32]
+[INFO][20/8/2016 17:42:32] ***************************   
+[INFO][20/8/2016 17:42:32] ******  New Log File ******   
+[INFO][20/8/2016 17:42:32] ***************************   
+[INFO][20/8/2016 17:42:32]
+[INFO]   [20/8/2016 17:43:56]    Reading settings file.
+[INFO][20/8/2016 17:42:32]
+[INFO][20/8/2016 17:42:32] ***************************   
+[INFO][20/8/2016 17:42:32] ******  New Log File ******   
+[INFO][20/8/2016 17:42:32] ***************************   
+[INFO][20/8/2016 17:42:32]
+[INFO]   [20/8/2016 17:44:30]    Reading settings file.
+[INFO][20/8/2016 17:44:31]
+[INFO][20/8/2016 17:44:31] ***************************   
+[INFO][20/8/2016 17:44:31] ******  New Log File ******   
+[INFO][20/8/2016 17:44:31] ***************************   
+[INFO][20/8/2016 17:44:31]
+[INFO]   [20/8/2016 17:44:31]    Reading settings file.
+[INFO]   [20/8/2016 17:44:31]    Settings initialized
+[INFO]   [20/8/2016 17:44:31]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:44:31]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:44:31]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:44:31]    Settings file is ready. 
+[INFO]   [20/8/2016 17:44:31]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 17:44:37]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[DEBUG]   [20/8/2016 17:44:42]    Form has changed
+[INFO]   [20/8/2016 17:44:42]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:44:43]    Form values are updated
+[DEBUG]   [20/8/2016 17:44:43]    Box end time: 5.012064
+[INFO]   [20/8/2016 17:44:43]    ====== Box Created ======
+[INFO]   [20/8/2016 17:44:44]    ====== seekbar changed ======
+[INFO][20/8/2016 17:44:31]
+[INFO][20/8/2016 17:44:31] ***************************   
+[INFO][20/8/2016 17:44:31] ******  New Log File ******   
+[INFO][20/8/2016 17:44:31] ***************************   
+[INFO][20/8/2016 17:44:31]
+[INFO]   [20/8/2016 17:45:2]    Reading settings file.
+[INFO][20/8/2016 17:44:31]
+[INFO][20/8/2016 17:44:31] ***************************   
+[INFO][20/8/2016 17:44:31] ******  New Log File ******   
+[INFO][20/8/2016 17:44:31] ***************************   
+[INFO][20/8/2016 17:44:31]
+[INFO]   [20/8/2016 17:45:30]    Reading settings file.
+[INFO][20/8/2016 17:45:31]
+[INFO][20/8/2016 17:45:31] ***************************   
+[INFO][20/8/2016 17:45:31] ******  New Log File ******   
+[INFO][20/8/2016 17:45:31] ***************************   
+[INFO][20/8/2016 17:45:31]
+[INFO]   [20/8/2016 17:45:31]    Reading settings file.
+[INFO]   [20/8/2016 17:45:31]    Settings initialized
+[INFO]   [20/8/2016 17:45:31]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:45:31]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:45:31]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:45:31]    Settings file is ready. 
+[INFO]   [20/8/2016 17:45:31]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 17:45:39]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[DEBUG]   [20/8/2016 17:45:43]    Form has changed
+[INFO]   [20/8/2016 17:45:43]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:45:44]    Form values are updated
+[DEBUG]   [20/8/2016 17:45:44]    Box end time: 3.236958
+[INFO]   [20/8/2016 17:45:45]    ====== Box Created ======
+[INFO]   [20/8/2016 17:45:46]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:45:50]    Clearing rectangle.
+[INFO][20/8/2016 17:45:31]
+[INFO][20/8/2016 17:45:31] ***************************   
+[INFO][20/8/2016 17:45:31] ******  New Log File ******   
+[INFO][20/8/2016 17:45:31] ***************************   
+[INFO][20/8/2016 17:45:31]
+[INFO]   [20/8/2016 17:46:8]    Reading settings file.
+[INFO][20/8/2016 17:45:31]
+[INFO][20/8/2016 17:45:31] ***************************   
+[INFO][20/8/2016 17:45:31] ******  New Log File ******   
+[INFO][20/8/2016 17:45:31] ***************************   
+[INFO][20/8/2016 17:45:31]
+[INFO]   [20/8/2016 17:46:19]    Reading settings file.
+[DEBUG]   [20/8/2016 17:46:33]    Form has changed
+[INFO]   [20/8/2016 17:46:33]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:46:34]    Form values are updated
+[DEBUG]   [20/8/2016 17:46:34]    Box end time: 10.4418
+[INFO]   [20/8/2016 17:46:35]    ====== Box Created ======
+[INFO]   [20/8/2016 17:46:37]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:46:41]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:46:43]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[INFO]   [20/8/2016 17:48:2]    Precision before : 0.008
+[INFO]   [20/8/2016 17:48:2]    SeekBar: 8
+[INFO]   [20/8/2016 17:48:2]    COLOR: #FF3232
+[INFO]   [20/8/2016 17:48:2]    These are the setting files:  brown color
+[INFO]   [20/8/2016 17:48:6]    Precision before : 0.008
+[INFO]   [20/8/2016 17:48:6]    SeekBar: 8
+[INFO]   [20/8/2016 17:48:6]    COLOR: #FF3232
+[INFO]   [20/8/2016 17:48:6]    These are the setting files:  brown color
+[INFO]   [20/8/2016 17:48:13]    Precision changed to: 0.008
+[INFO]   [20/8/2016 17:48:13]    Color changed to (RGB): #FF3232
+[INFO]   [20/8/2016 17:48:13]    Directory changed to: C:\Users\ifimv_000\Desktop\my_screen
+[INFO]   [20/8/2016 17:48:18]    Precision before : 0.008
+[INFO]   [20/8/2016 17:48:18]    SeekBar: 8
+[INFO]   [20/8/2016 17:48:18]    COLOR: #FF3232
+[INFO]   [20/8/2016 17:48:18]    These are the setting files:  brown color
+[INFO][20/8/2016 17:45:31]
+[INFO][20/8/2016 17:45:31] ***************************   
+[INFO][20/8/2016 17:45:31] ******  New Log File ******   
+[INFO][20/8/2016 17:45:31] ***************************   
+[INFO][20/8/2016 17:45:31]
+[INFO]   [20/8/2016 17:48:23]    Reading settings file.
+[INFO]   [20/8/2016 17:48:27]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:48:30]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:48:30]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:48:38]    Form has changed
+[INFO]   [20/8/2016 17:48:38]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:48:38]    Form values are updated
+[DEBUG]   [20/8/2016 17:48:38]    Box end time: 19.526166
+[INFO]   [20/8/2016 17:48:39]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:48:39]    Box end time: 20.465928
+[DEBUG]   [20/8/2016 17:48:39]    Form values are updated
+[INFO]   [20/8/2016 17:48:40]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:48:40]    Form values are updated
+[DEBUG]   [20/8/2016 17:48:40]    Box end time: 21.301272
+[INFO]   [20/8/2016 17:48:43]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:48:43]    Form values are updated
+[DEBUG]   [20/8/2016 17:48:43]    Box end time: 21.614526
+[INFO]   [20/8/2016 17:48:45]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:48:45]    Form values are updated
+[DEBUG]   [20/8/2016 17:48:45]    Box end time: 21.092436
+[INFO]   [20/8/2016 17:48:52]    ====== Box Created ======
+[INFO]   [20/8/2016 17:48:53]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:48:54]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:48:55]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:4]    Form has changed
+[INFO]   [20/8/2016 17:49:4]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:4]    Box end time: 19.369539
+[DEBUG]   [20/8/2016 17:49:4]    Form values are updated
+[INFO]   [20/8/2016 17:49:5]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:5]    Form values are updated
+[DEBUG]   [20/8/2016 17:49:5]    Box end time: 20.413719
+[INFO]   [20/8/2016 17:49:6]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:6]    Form values are updated
+[DEBUG]   [20/8/2016 17:49:6]    Box end time: 20.988018
+[INFO]   [20/8/2016 17:49:9]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:9]    Clearing rectangle.
+[DEBUG]   [20/8/2016 17:49:9]    Box end time: 21.353481
+[DEBUG]   [20/8/2016 17:49:9]    Form values are updated
+[INFO]   [20/8/2016 17:49:10]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:10]    Form values are updated
+[DEBUG]   [20/8/2016 17:49:10]    Box end time: 20.831391
+[INFO]   [20/8/2016 17:49:15]    Screenshot is saved.
+[INFO]   [20/8/2016 17:49:17]    ====== Box Created ======
+[INFO]   [20/8/2016 17:49:18]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:18]    Clearing rectangle.
+[INFO]   [20/8/2016 17:49:19]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:21]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:21]    Clearing rectangle.
+[INFO]   [20/8/2016 17:49:22]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:22]    Clearing rectangle.
+[INFO]   [20/8/2016 17:49:22]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:23]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:24]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:24]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:25]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:26]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:35]    Form has changed
+[INFO]   [20/8/2016 17:49:35]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:35]    Form values are updated
+[DEBUG]   [20/8/2016 17:49:35]    Box end time: 19.265121
+[INFO]   [20/8/2016 17:49:36]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:36]    Form values are updated
+[DEBUG]   [20/8/2016 17:49:36]    Box end time: 19.943838
+[INFO]   [20/8/2016 17:49:37]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:37]    Form values are updated
+[DEBUG]   [20/8/2016 17:49:37]    Box end time: 20.413719
+[INFO]   [20/8/2016 17:49:38]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:38]    Clearing rectangle.
+[INFO]   [20/8/2016 17:49:39]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:39]    Clearing rectangle.
+[DEBUG]   [20/8/2016 17:49:39]    Form values are updated
+[DEBUG]   [20/8/2016 17:49:39]    Box end time: 21.40569
+[DEBUG]   [20/8/2016 17:49:44]    X : true
+[DEBUG]   [20/8/2016 17:49:44]    Y : true
+[DEBUG]   [20/8/2016 17:49:44]    X : true
+[DEBUG]   [20/8/2016 17:49:44]    Y : false
+[INFO]   [20/8/2016 17:49:44]    ====== Box Created ======
+[INFO]   [20/8/2016 17:49:47]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:49:48]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:48]    Form values are updated
+[INFO]   [20/8/2016 17:49:55]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:49:55]    Form values are updated
+[INFO]   [20/8/2016 17:49:57]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[INFO]   [20/8/2016 17:50:3]    Screenshot is saved.
+[INFO]   [20/8/2016 17:50:4]    Screenshot is saved.
+[INFO]   [20/8/2016 17:50:4]    Clearing rectangle.
+[INFO]   [20/8/2016 17:50:4]    Clearing rectangle.
+[INFO]   [20/8/2016 17:50:5]    Clearing rectangle.
+[INFO][20/8/2016 17:45:31]
+[INFO][20/8/2016 17:45:31] ***************************   
+[INFO][20/8/2016 17:45:31] ******  New Log File ******   
+[INFO][20/8/2016 17:45:31] ***************************   
+[INFO][20/8/2016 17:45:31]
+[INFO]   [20/8/2016 17:50:43]    Reading settings file.
+[INFO][20/8/2016 17:50:45]
+[INFO][20/8/2016 17:50:45] ***************************   
+[INFO][20/8/2016 17:50:45] ******  New Log File ******   
+[INFO][20/8/2016 17:50:45] ***************************   
+[INFO][20/8/2016 17:50:45]
+[INFO]   [20/8/2016 17:50:45]    Reading settings file.
+[INFO]   [20/8/2016 17:50:45]    Settings initialized
+[INFO]   [20/8/2016 17:50:45]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:50:45]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:50:45]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:50:45]    Settings file is ready. 
+[INFO]   [20/8/2016 17:50:45]    SettingsFileReadyEvent---Service
+[INFO][20/8/2016 17:50:59]
+[INFO][20/8/2016 17:50:59] ***************************   
+[INFO][20/8/2016 17:50:59] ******  New Log File ******   
+[INFO][20/8/2016 17:50:59] ***************************   
+[INFO][20/8/2016 17:50:59]
+[INFO]   [20/8/2016 17:50:59]    Reading settings file.
+[INFO]   [20/8/2016 17:50:59]    Settings initialized
+[INFO]   [20/8/2016 17:50:59]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:50:59]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:50:59]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:50:59]    Settings file is ready. 
+[INFO]   [20/8/2016 17:50:59]    SettingsFileReadyEvent---Service
+[INFO][20/8/2016 17:51:9]
+[INFO][20/8/2016 17:51:9] ***************************   
+[INFO][20/8/2016 17:51:9] ******  New Log File ******   
+[INFO][20/8/2016 17:51:9] ***************************   
+[INFO][20/8/2016 17:51:9]
+[INFO]   [20/8/2016 17:51:9]    Reading settings file.
+[INFO]   [20/8/2016 17:51:9]    Settings initialized
+[INFO]   [20/8/2016 17:51:9]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:51:9]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:51:9]    Settings file is ready. 
+[INFO]   [20/8/2016 17:51:9]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:51:9]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 17:51:19]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:51:21]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:51:22]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:51:22]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:51:23]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:51:24]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:51:25]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:51:31]    Form has changed
+[INFO]   [20/8/2016 17:51:31]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:51:31]    Form values are updated
+[DEBUG]   [20/8/2016 17:51:31]    Box end time: 19.473957
+[INFO]   [20/8/2016 17:51:32]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:51:32]    Form values are updated
+[DEBUG]   [20/8/2016 17:51:32]    Box end time: 20.465928
+[INFO]   [20/8/2016 17:51:33]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:51:33]    Form values are updated
+[DEBUG]   [20/8/2016 17:51:33]    Box end time: 21.092436
+[INFO]   [20/8/2016 17:51:40]    ====== Box Created ======
+[INFO]   [20/8/2016 17:51:41]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:51:41]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:51:42]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:51:42]    Clearing rectangle.
+[INFO]   [20/8/2016 17:51:43]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:51:54]    Form has changed
+[INFO]   [20/8/2016 17:51:54]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:51:54]    Form values are updated
+[DEBUG]   [20/8/2016 17:51:54]    Box end time: 24.694857
+[INFO]   [20/8/2016 17:51:56]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:51:56]    Form values are updated
+[DEBUG]   [20/8/2016 17:51:56]    Box end time: 20.048256
+[DEBUG]   [20/8/2016 17:52:8]    Form has changed
+[DEBUG]   [20/8/2016 17:52:8]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:8]    Box end time: 22.614526
+[DEBUG]   [20/8/2016 17:52:11]    Form has changed
+[DEBUG]   [20/8/2016 17:52:11]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:11]    Box end time: 24.180796
+[INFO]   [20/8/2016 17:52:15]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:15]    Clearing rectangle.
+[DEBUG]   [20/8/2016 17:52:15]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:15]    Box end time: 26.469963
+[INFO]   [20/8/2016 17:52:16]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:52:16]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:16]    Box end time: 19.578375
+[INFO]   [20/8/2016 17:52:20]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:20]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:21]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:21]    Clearing rectangle.
+[INFO]   [20/8/2016 17:52:22]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:24]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:24]    Clearing rectangle.
+[INFO]   [20/8/2016 17:52:24]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:29]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:52:29]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:29]    Box end time: 19.265121
+[INFO]   [20/8/2016 17:52:31]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:52:31]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:31]    Box end time: 19.83942
+[INFO]   [20/8/2016 17:52:32]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:52:32]    Box end time: 20.309301
+[DEBUG]   [20/8/2016 17:52:32]    Form values are updated
+[INFO]   [20/8/2016 17:52:33]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:52:33]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:33]    Box end time: 20.570346
+[INFO]   [20/8/2016 17:52:37]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:52:37]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:37]    Box end time: 20.988018
+[DEBUG]   [20/8/2016 17:52:42]    Form has changed
+[DEBUG]   [20/8/2016 17:52:42]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:42]    Box end time: 23.389632
+[DEBUG]   [20/8/2016 17:52:42]    X : true
+[INFO]   [20/8/2016 17:52:42]    ====== Box Created ======
+[DEBUG]   [20/8/2016 17:52:42]    Y : true
+[INFO]   [20/8/2016 17:52:44]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:44]    Clearing rectangle.
+[INFO]   [20/8/2016 17:52:45]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:45]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:47]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:48]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:49]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:49]    Clearing rectangle.
+[DEBUG]   [20/8/2016 17:52:56]    Form has changed
+[INFO]   [20/8/2016 17:52:56]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:52:56]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:56]    Box end time: 18.899658
+[INFO]   [20/8/2016 17:52:57]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:52:57]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:57]    Box end time: 19.578375
+[INFO]   [20/8/2016 17:52:57]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:52:57]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:57]    Box end time: 20.257092
+[INFO]   [20/8/2016 17:52:58]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:52:58]    Form values are updated
+[DEBUG]   [20/8/2016 17:52:58]    Box end time: 20.8836
+[INFO]   [20/8/2016 17:52:59]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:52:59]    Clearing rectangle.
+[INFO]   [20/8/2016 17:53:2]    ====== Box Created ======
+[INFO]   [20/8/2016 17:53:3]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:53:3]    Clearing rectangle.
+[INFO]   [20/8/2016 17:53:6]    file url: 
+[INFO]   [20/8/2016 17:53:19]    Error: ENOENT: no such file or directory, open 'C:\Users\ifimv_000\Documents\Projects\Doron\app\app\screenshots\1471704798503.png'
+[INFO]   [20/8/2016 17:53:20]    Screenshot is saved.
+[INFO]   [20/8/2016 17:53:20]    Clearing rectangle.
+[INFO]   [20/8/2016 17:53:20]    Clearing rectangle.
+[INFO]   [20/8/2016 17:53:22]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:53:23]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:53:23]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:53:24]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:53:24]    Clearing rectangle.
+[INFO]   [20/8/2016 17:53:24]    Clearing rectangle.
+[INFO]   [20/8/2016 17:53:25]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:53:25]    Clearing rectangle.
+[INFO]   [20/8/2016 17:53:30]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[INFO]   [20/8/2016 17:53:32]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[INFO]   [20/8/2016 17:53:38]    Error: ENOENT: no such file or directory, open 'C:\Users\ifimv_000\Documents\Projects\Doron\app\app\screenshots\1471704818246.png'
+[INFO]   [20/8/2016 17:53:40]    Screenshot is saved.
+[INFO]   [20/8/2016 17:53:40]    Clearing rectangle.
+[INFO]   [20/8/2016 17:53:40]    Clearing rectangle.
+[DEBUG]   [20/8/2016 17:53:42]    Form values are updated
+[INFO]   [20/8/2016 17:53:42]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:53:43]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:53:43]    Form values are updated
+[INFO]   [20/8/2016 17:53:43]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:53:43]    Form values are updated
+[INFO]   [20/8/2016 17:53:44]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:53:44]    Clearing rectangle.
+[INFO]   [20/8/2016 17:53:44]    Clearing rectangle.
+[INFO]   [20/8/2016 17:53:47]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:53:47]    Clearing rectangle.
+[DEBUG]   [20/8/2016 17:53:47]    Form values are updated
+[INFO]   [20/8/2016 17:53:53]    Precision before : 0.008
+[INFO]   [20/8/2016 17:53:53]    SeekBar: 8
+[INFO]   [20/8/2016 17:53:53]    COLOR: #FF3232
+[INFO]   [20/8/2016 17:53:53]    These are the setting files:  brown color
+[INFO]   [20/8/2016 17:54:5]    Precision changed to: 0.008
+[INFO]   [20/8/2016 17:54:5]    Color changed to (RGB): #FF3232
+[INFO]   [20/8/2016 17:54:5]    Directory changed to: C:\Users\ifimv_000\Desktop\my_screen
+[INFO]   [20/8/2016 17:54:8]    Screenshot is saved.
+[INFO]   [20/8/2016 17:54:9]    Clearing rectangle.
+[INFO]   [20/8/2016 17:54:10]    Clearing rectangle.
+[INFO][20/8/2016 17:54:47]
+[INFO][20/8/2016 17:54:47] ***************************   
+[INFO][20/8/2016 17:54:47] ******  New Log File ******   
+[INFO][20/8/2016 17:54:47] ***************************   
+[INFO][20/8/2016 17:54:47]
+[INFO]   [20/8/2016 17:54:47]    Reading settings file.
+[INFO]   [20/8/2016 17:54:47]    Settings initialized
+[INFO]   [20/8/2016 17:54:47]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 17:54:47]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 17:54:47]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 17:54:47]    Settings file is ready. 
+[INFO]   [20/8/2016 17:54:47]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 17:54:55]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:54:57]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:54:58]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:54:59]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:0]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:1]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:1]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:2]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:3]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:10]    Form has changed
+[INFO]   [20/8/2016 17:55:10]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:10]    Box end time: 19.526166
+[DEBUG]   [20/8/2016 17:55:10]    Form values are updated
+[INFO]   [20/8/2016 17:55:11]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:11]    Form values are updated
+[DEBUG]   [20/8/2016 17:55:11]    Box end time: 20.309301
+[INFO]   [20/8/2016 17:55:12]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:12]    Form values are updated
+[DEBUG]   [20/8/2016 17:55:12]    Box end time: 20.831391
+[INFO]   [20/8/2016 17:55:13]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:13]    Form values are updated
+[DEBUG]   [20/8/2016 17:55:13]    Box end time: 21.301272
+[DEBUG]   [20/8/2016 17:55:23]    Form has changed
+[DEBUG]   [20/8/2016 17:55:23]    Form values are updated
+[DEBUG]   [20/8/2016 17:55:23]    Box end time: 23.807304
+[INFO]   [20/8/2016 17:55:24]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:25]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:26]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:27]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:28]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:29]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:36]    Form has changed
+[INFO]   [20/8/2016 17:55:37]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:37]    Form values are updated
+[DEBUG]   [20/8/2016 17:55:37]    Box end time: 19.421748
+[INFO]   [20/8/2016 17:55:38]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:38]    Form values are updated
+[DEBUG]   [20/8/2016 17:55:38]    Box end time: 19.943838
+[INFO]   [20/8/2016 17:55:40]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:40]    Box end time: 20.257092
+[DEBUG]   [20/8/2016 17:55:40]    Form values are updated
+[INFO]   [20/8/2016 17:55:41]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:41]    Form values are updated
+[DEBUG]   [20/8/2016 17:55:41]    Box end time: 20.726973
+[INFO]   [20/8/2016 17:55:43]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:55:43]    Form values are updated
+[DEBUG]   [20/8/2016 17:55:43]    Box end time: 21.144645
+[INFO]   [20/8/2016 17:55:52]    ====== Box Created ======
+[INFO]   [20/8/2016 17:55:54]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:54]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:54]    Clearing rectangle.
+[INFO]   [20/8/2016 17:55:56]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:56]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:58]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:55:58]    Clearing rectangle.
+[DEBUG]   [20/8/2016 17:56:18]    Form has changed
+[DEBUG]   [20/8/2016 17:56:22]    Form has changed
+[DEBUG]   [20/8/2016 17:56:22]    Box end time: 21.190822
+[DEBUG]   [20/8/2016 17:56:22]    Form values are updated
+[INFO]   [20/8/2016 17:56:24]    ====== Box Created ======
+[INFO]   [20/8/2016 17:56:26]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:56:26]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:56:26]    Clearing rectangle.
+[INFO]   [20/8/2016 17:56:27]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:56:27]    Clearing rectangle.
+[INFO]   [20/8/2016 17:56:29]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:56:29]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:56:30]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 17:56:42]    Form has changed
+[DEBUG]   [20/8/2016 17:56:44]    Form has changed
+[DEBUG]   [20/8/2016 17:56:44]    Form values are updated
+[DEBUG]   [20/8/2016 17:56:44]    Box end time: 21.451867
+[DEBUG]   [20/8/2016 17:56:46]    X : true
+[DEBUG]   [20/8/2016 17:56:46]    Y : true
+[DEBUG]   [20/8/2016 17:56:46]    Y : true
+[INFO]   [20/8/2016 17:56:46]    ====== Box Created ======
+[DEBUG]   [20/8/2016 17:56:46]    X : true
+[INFO]   [20/8/2016 17:56:48]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:56:48]    Clearing rectangle.
+[INFO]   [20/8/2016 17:56:51]    Precision before : 0.008
+[INFO]   [20/8/2016 17:56:51]    SeekBar: 8
+[INFO]   [20/8/2016 17:56:51]    COLOR: #FF3232
+[INFO]   [20/8/2016 17:56:51]    These are the setting files:  brown color
+[INFO]   [20/8/2016 17:56:59]    Precision changed to: 0.008
+[INFO]   [20/8/2016 17:56:59]    Color changed to (RGB): #FF3232
+[INFO]   [20/8/2016 17:56:59]    Directory changed to: C:\Users\ifimv_000\Desktop\my_screen
+[INFO]   [20/8/2016 17:57:2]    file url: 
+[INFO]   [20/8/2016 17:57:3]    Clearing rectangle.
+[INFO]   [20/8/2016 17:57:10]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[INFO]   [20/8/2016 17:57:17]    Screenshot is saved.
+[INFO]   [20/8/2016 17:57:18]    Clearing rectangle.
+[INFO]   [20/8/2016 17:57:18]    Clearing rectangle.
+[INFO]   [20/8/2016 17:57:19]    Clearing rectangle.
+[INFO]   [20/8/2016 17:57:22]    Precision before : 0.008
+[INFO]   [20/8/2016 17:57:22]    COLOR: #FF3232
+[INFO]   [20/8/2016 17:57:22]    SeekBar: 8
+[INFO]   [20/8/2016 17:57:22]    These are the setting files:  brown color
+[INFO][20/8/2016 17:54:47]
+[INFO][20/8/2016 17:54:47] ***************************   
+[INFO][20/8/2016 17:54:47] ******  New Log File ******   
+[INFO][20/8/2016 17:54:47] ***************************   
+[INFO][20/8/2016 17:54:47]
+[INFO]   [20/8/2016 17:57:38]    Reading settings file.
+[INFO]   [20/8/2016 17:57:40]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:57:41]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:57:42]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:57:46]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_02-56-13-PM.json
+[INFO]   [20/8/2016 17:58:2]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:58:3]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:58:4]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:58:5]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:58:5]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:58:6]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:58:7]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:58:19]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:58:19]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:58:24]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:59:4]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:59:15]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:59:16]    ====== seekbar changed ======
+[INFO]   [20/8/2016 17:59:20]    ====== seekbar changed ======
+[INFO][20/8/2016 18:5:6]
+[INFO][20/8/2016 18:5:6] ***************************   
+[INFO][20/8/2016 18:5:6] ******  New Log File ******   
+[INFO][20/8/2016 18:5:6] ***************************   
+[INFO][20/8/2016 18:5:6]
+[INFO]   [20/8/2016 18:5:6]    Reading settings file.
+[INFO]   [20/8/2016 18:5:6]    Settings initialized
+[INFO]   [20/8/2016 18:5:6]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 18:5:6]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 18:5:6]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 18:5:6]    Settings file is ready. 
+[INFO]   [20/8/2016 18:5:6]    SettingsFileReadyEvent---Service
+[INFO][20/8/2016 18:5:15]
+[INFO][20/8/2016 18:5:15] ***************************   
+[INFO][20/8/2016 18:5:15] ******  New Log File ******   
+[INFO][20/8/2016 18:5:15] ***************************   
+[INFO][20/8/2016 18:5:15]
+[INFO]   [20/8/2016 18:5:15]    Reading settings file.
+[INFO]   [20/8/2016 18:5:15]    Settings initialized
+[INFO]   [20/8/2016 18:5:15]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 18:5:15]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 18:5:15]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 18:5:15]    Settings file is ready. 
+[INFO]   [20/8/2016 18:5:15]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 18:5:26]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:5:27]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:5:30]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_06-03-26-PM.json
+[INFO]   [20/8/2016 18:5:41]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:5:41]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:5:52]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:5:57]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 18:6:8]    Form has changed
+[DEBUG]   [20/8/2016 18:6:10]    Form has changed
+[DEBUG]   [20/8/2016 18:6:10]    Form values are updated
+[DEBUG]   [20/8/2016 18:6:10]    Box end time: 21.29524
+[INFO]   [20/8/2016 18:6:12]    ====== Box Created ======
+[INFO]   [20/8/2016 18:6:13]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:6:14]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:6:15]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:6:15]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:6:18]    ====== seekbar changed ======
+[DEBUG]   [20/8/2016 18:6:23]    Form has changed
+[DEBUG]   [20/8/2016 18:6:25]    Form has changed
+[DEBUG]   [20/8/2016 18:6:25]    Form values are updated
+[DEBUG]   [20/8/2016 18:6:25]    Box end time: 21.190822
+[INFO]   [20/8/2016 18:6:26]    ====== Box Created ======
+[INFO]   [20/8/2016 18:6:27]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:6:29]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:6:29]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:6:29]    Clearing rectangle.
+[DEBUG]   [20/8/2016 18:6:36]    Form has changed
+[DEBUG]   [20/8/2016 18:6:38]    Form has changed
+[DEBUG]   [20/8/2016 18:6:38]    Form values are updated
+[DEBUG]   [20/8/2016 18:6:38]    Box end time: 20.77315
+[DEBUG]   [20/8/2016 18:6:44]    Form has changed
+[DEBUG]   [20/8/2016 18:6:44]    Form values are updated
+[DEBUG]   [20/8/2016 18:6:44]    Box end time: 23.37315
+[INFO]   [20/8/2016 18:6:48]    ====== Box Created ======
+[INFO]   [20/8/2016 18:6:50]    ====== seekbar changed ======
+[INFO]   [20/8/2016 18:6:50]    Clearing rectangle.
+[INFO]   [20/8/2016 18:6:52]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_06-03-26-PM.json
+[INFO]   [20/8/2016 18:7:1]    Precision before : 0.008
+[INFO]   [20/8/2016 18:7:1]    COLOR: #FF3232
+[INFO]   [20/8/2016 18:7:1]    SeekBar: 8
+[INFO]   [20/8/2016 18:7:1]    These are the setting files:  brown color
+[INFO]   [20/8/2016 18:7:7]    Precision changed to: 0.008
+[INFO]   [20/8/2016 18:7:7]    Color changed to (RGB): #FF3232
+[INFO]   [20/8/2016 18:7:7]    Directory changed to: C:\Users\ifimv_000\Desktop\my_screen
+[INFO]   [20/8/2016 18:7:12]    Screenshot is saved.
+[INFO]   [20/8/2016 18:7:14]    Screenshot is saved.
+[INFO]   [20/8/2016 18:7:16]    Clearing rectangle.
+[INFO]   [20/8/2016 18:7:16]    Clearing rectangle.
+[INFO]   [20/8/2016 18:7:18]    Clearing rectangle.
+[INFO][20/8/2016 18:18:38]
+[INFO][20/8/2016 18:18:38] ***************************   
+[INFO][20/8/2016 18:18:38] ******  New Log File ******   
+[INFO][20/8/2016 18:18:38] ***************************   
+[INFO][20/8/2016 18:18:38]
+[INFO]   [20/8/2016 18:18:38]    Reading settings file.
+[INFO]   [20/8/2016 18:18:38]    Settings initialized
+[INFO]   [20/8/2016 18:18:38]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 18:18:38]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 18:18:38]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 18:18:38]    Settings file is ready. 
+[INFO]   [20/8/2016 18:18:38]    SettingsFileReadyEvent---Service
+[INFO]   [20/8/2016 18:18:47]    file url: C:\Users\ifimv_000\Documents\Projects\Doron\app\app\example\video\20-08-2016_06-03-26-PM.json
+[INFO]   [20/8/2016 18:19:22]    Precision before : 0.008
+[INFO]   [20/8/2016 18:19:22]    SeekBar: 8
+[INFO]   [20/8/2016 18:19:22]    COLOR: #FF3232
+[INFO]   [20/8/2016 18:19:22]    These are the setting files:  brown color
+[INFO]   [20/8/2016 18:19:30]    Precision changed to: 0.008
+[INFO]   [20/8/2016 18:19:30]    Color changed to (RGB): #FF3232
+[INFO]   [20/8/2016 18:19:30]    Directory changed to: C:\Users\ifimv_000\Desktop\my_screen
+[INFO]   [20/8/2016 18:19:33]    Screenshot is saved.
