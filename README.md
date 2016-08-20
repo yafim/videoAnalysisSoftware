@@ -1,4 +1,4 @@
-![statistics](https://postimg.org/image/x41l6olpl/)
+![statistics](https://s4.postimg.org/y6brp84j1/statistics.png)
 
 
 # Introduction
