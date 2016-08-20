@@ -5918,3 +5918,15 @@
 [INFO][20/8/2016 15:1:21] ***************************   
 [INFO][20/8/2016 15:1:21]
 [INFO]   [20/8/2016 15:3:41]    Reading settings file.
+[INFO][20/8/2016 15:58:47]
+[INFO][20/8/2016 15:58:47] ***************************   
+[INFO][20/8/2016 15:58:47] ******  New Log File ******   
+[INFO][20/8/2016 15:58:47] ***************************   
+[INFO][20/8/2016 15:58:47]
+[INFO]   [20/8/2016 15:58:47]    Reading settings file.
+[INFO]   [20/8/2016 15:58:47]    Settings initialized
+[INFO]   [20/8/2016 15:58:47]    Initialized: precision set with 0.008
+[INFO]   [20/8/2016 15:58:47]    Initialized: boxColor set with #FF3232
+[INFO]   [20/8/2016 15:58:47]    Initialized: directory set with screenshots
+[INFO]   [20/8/2016 15:58:47]    Settings file is ready. 
+[INFO]   [20/8/2016 15:58:47]    SettingsFileReadyEvent---Service
