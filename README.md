@@ -15,7 +15,7 @@ This Video player analyzes a JSON file containing coordinates and timestamps (th
 	 "x": 1008,
 	 "y": 582,
 	 "timeStamp" : "00:00:00.0030017",
-	  "second" : "0";
+	  "second" : "0"
 	 },
 	{
 	 "x": 1008,
