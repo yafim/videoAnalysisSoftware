@@ -1,4 +1,7 @@
 ![statistics](https://s4.postimg.org/y6brp84j1/statistics.png)
+![pic](https://s4.postimg.org/6a1hl76jx/1471704554496.png)
+![pic](https://s4.postimg.org/sgooe2i59/1471704602464.png)
+
 
 
 # Introduction
