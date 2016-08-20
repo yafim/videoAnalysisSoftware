@@ -29,7 +29,11 @@ Note! You can generate your own json file from any eye tracker using this format
 * Understanding user's video viewing behavior (Eye tracking technology, EEG, Cursor behavior, etc.) 
 
 # How to use it
-* Open the program using provided nwjs version (./nwjs/nwjs-v0.12.3-win-x64) [NWJS  GitHub](https://github.com/nwjs/nw.js)
+* Open the program using provided nwjs version (./nwjs-v0.12.3-win-x64) [NWJS  GitHub](https://github.com/nwjs/nw.js) as follows:
+* From cmd:
+	```
+	.\nwjs-v0.12.3-win-x64\nw.exe .\app\
+	```
 * Choose video and json file
 * Mark relevant AOIs in the video. 
 * Play the video (with log file).
