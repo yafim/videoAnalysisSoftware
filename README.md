@@ -1,9 +1,3 @@
-![pic](https://s4.postimg.org/6a1hl76jx/1471704554496.png)
-![pic](https://s4.postimg.org/sgooe2i59/1471704602464.png)
-![statistics](https://s4.postimg.org/l1nem0t19/statistics.png)
-![heatmap](https://s4.postimg.org/vaxuew659/1471706373029.png)
-
-
 # Introduction
 This Video player analyzes a JSON file containing coordinates and timestamps (the JSON data corresponds to the frames in a video track - this file will be built in advance using EyeLog software) to present relevant pixels, according to time, on the screen using heatmap.js.
 
@@ -57,3 +51,10 @@ Yafim
 
 # License
 Copyright (c) 2015 Yafim Vodkov & Licensed under the [Apache License](LICENSE.md).
+
+#Some pictures
+![pic](https://s4.postimg.org/6a1hl76jx/1471704554496.png)
+![pic](https://s4.postimg.org/sgooe2i59/1471704602464.png)
+![statistics](https://s4.postimg.org/l1nem0t19/statistics.png)
+![heatmap](https://s4.postimg.org/vaxuew659/1471706373029.png)
+
