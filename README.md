@@ -30,7 +30,7 @@ Note! You can generate your own json file from any eye tracker using this format
 
 # How to use it
 * Open the program using provided nwjs version (./nwjs-v0.12.3-win-x64) [NWJS  GitHub](https://github.com/nwjs/nw.js) as follows:
-	From cmd:
+* From cmd:
 	```
 	.\nwjs-v0.12.3-win-x64\nw.exe .\app\
 	```
