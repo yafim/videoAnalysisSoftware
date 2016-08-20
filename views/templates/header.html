@@ -1,0 +1,45 @@
+    <div ng-controller="NavbarCtrl">
+     <nav class="navbar navbar-default" role="navigation" style="z-index:4">
+
+        <ul class="nav navbar-nav">
+          
+          <!-- File -->
+          <li dropdown>
+            <a href="#" dropdown-toggle>
+              File
+            </a>
+            <tree tree='file'></tree>
+          </li> 
+          <!-- End File -->
+
+          <!-- View -->
+          <li dropdown>
+            <a href="#" dropdown-toggle>
+              View
+            </a>
+            <tree tree='view'></tree>
+          </li>
+          <!-- End View -->
+
+          <!-- Preferences -->
+          <li dropdown>
+            <a href="#" dropdown-toggle>
+              Preferences
+            </a>
+            <tree tree='preferences'></tree>
+          </li>
+          <!-- End Preferences -->
+
+          <!-- Help -->
+          <li dropdown>
+            <a href="#" dropdown-toggle>
+              Help
+            </a>
+            <tree tree='help'></tree>
+          </li>
+          <!-- End Help -->
+
+        </ul>
+
+      </nav>
+  </div>

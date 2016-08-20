@@ -1,0 +1,148 @@
+﻿.layerOne { 
+  position:absolute; 
+  top: 0; 
+  left: 0; 
+  z-index: 1; 
+}
+
+/* Video controlls */ 
+.layerTwo { 
+
+  position:absolute; 
+
+  z-index: 2; 
+} 
+
+/* HEAT MAP */
+heat-map {
+    height: inherit;
+    display: block;
+}
+
+heat-map div {
+     height: 100%;   
+}
+
+.full{
+  /*position:absolute; */
+  top:0;
+  left:0; 
+  width:100%; 
+  height:100%;
+}
+
+.full { 
+  background-color: yellowgreen; 
+  width: 100%; 
+  height: 100%; 
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#videoBg {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 1;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background-size: cover;
+    overflow: hidden;
+}
+
+/* Video controls */
+#seekBar {
+
+}
+
+input[type=range].vertical-slider
+{
+    writing-mode: bt-lr; /* IE */
+    -webkit-appearance: slider-vertical; /* WebKit */
+    width: 8px;
+    height: 100px;
+    padding: 0 5px;
+    margin-bottom:-22px;
+}
+
+
+/* DRAWING CANVAS */
+/*canvas.body {
+background-color: red;
+    min-height: 100%;
+    margin-bottom: -90px;
+}*/
+
+canvas { display:block; } /* To remove the scrollbars */
+
+/* Options button */
+navbar {
+  /*position: relative;*/
+  float:right;
+  margin-right: 150px;
+}
+/*.dropdown-toggle {
+  float: right;
+  padding: .5em 1em;
+  background: #777;
+  border-radius: .2em .2em 0 0;
+}*/
+ul.dropdown {
+    margin-bottom: 20px;
+  display:none;
+  position: absolute;
+  bottom: 100%;
+  margin-top: .5em;
+  background: #777;
+  min-width: 7em;
+  padding: 0;
+  border-radius: 0 0 .2em .2em;
+  /*text-align: center;*/
+  list-style-type: none;
+
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+ul.dropdown a{
+      color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+ul.dropdown a:hover {background-color: #f1f1f1}
+
+
+/* Upper Menu */
+
+.videoUpperMenu {
+  font-size: 44px;
+  cursor:pointer;
+
+}
+
+.box-shadow-menu {
+  position: fixed;
+  padding-left: 1.25em;
+  z-index:3;
+  color:transparent;
+}
+.box-shadow-menu:before {
+  content: "";
+  position: absolute;
+  left: 9px;
+  top: 0.38em;
+  width: 1em;
+  height: 0.15em;
+  background: #5A5656;
+  box-shadow: 
+    0 0.25em 0 0 #5A5656,
+    0 0.5em 0 0 #5A5656;
+}

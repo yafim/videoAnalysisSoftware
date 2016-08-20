@@ -1,0 +1,35 @@
+<div class="ngdialog-message">
+	<h2>Settings</h2>
+
+<!-- 	<li>Precision : <input id="precisionSeekBar" type="range" min="1" max="10" value="p" ng-change="change()" ng-model="precisionSeekBar" style="display:inline; width:inherit"></li> -->
+
+	<li>Precision : <input id="precisionSeekBar" type="range" min="1" max="10" ng-change="change()" ng-model="precisionSeekBar" style="display:inline; width:inherit"></li>
+
+	<li>Box Color : <input type="color" ng-model="boxColor" ng-change="change()"></li>
+
+	<li>Screenshots directory : <input type="file" directory mozdirectory webkitdirectory id="screenshotsDirectoryPath" elem-ready="initDirectoryChooser()"></li>
+	<li> Existing profiles : 
+	    <select ng-model="selectedFile" ng-options="file for file in settingsFiles" ng-change="changeSettings(selectedFile)">
+	      <option value="">-- choose settings --</option>
+	    </select>
+	</li>
+
+	<li>
+		save personal settings : <input type="text" ng-model="personalSettingsName">
+		<button ng-click="saveSettingsFile()">Save</button>
+	</li>
+
+</div>
+
+<div class="ngdialog-buttons" >
+	<button class="ngdialog-button ngdialog-button-primary" id="apply" ng-click="apply()" elem-ready="disableApplyButton()">Apply</button>
+
+	<button type="button" class="ngdialog-button ngdialog-button-primary" ng-click="cancel()">Cancel</button>
+
+	<button type="button" class="ngdialog-button ngdialog-button-primary" ng-click="save()">OK</button>
+
+<!-- 	<button type="button" class="ngdialog-button ngdialog-button-primary" ng-click="debugFileSave()">Debug File save</button> -->
+
+
+
+</div>

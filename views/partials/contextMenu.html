@@ -1,0 +1,46 @@
+<ul class="menu">
+    <!-- <li>Read Message</li> -->
+    <!-- <li>Reply to {{from}}</li> -->
+    <!-- <li>Delete Message</li> -->
+    <!-- <li>Start Time: <input type="text"></li> -->
+
+<form name="contextMenuForm" form-on-change="updateBoxFields()">
+<!-- <form id="myForm"> -->
+  <table style="width:100%" border="0">
+
+    <tr>
+      <td>Description: </td>
+      <td><input type="text" ng-model="rect.description"></td>
+    </tr>
+
+      <tr>
+          <td>Duration:</td>
+          <td><input type="text"  name="duration" ng-model="endTime.duration"></td>
+      </tr>
+
+    <tr>
+      <td>Start Time:</td>
+      <td><input type="text" size="3" name="timeField" ng-model="startTime.minutes">:<input type="text" size="3" name="timeField" ng-model="startTime.seconds">:<input type="text" size="3" name="timeField" ng-model="startTime.milli"></td>
+    </tr>
+
+    <tr>
+      <td>End Time:</td>
+      <td><input type="text" size="3" name="timeField" ng-model="endTime.minutes">:<input type="text" size="3" name="timeField" ng-model="endTime.seconds">:<input type="text" size="3" name="timeField" ng-model="endTime.milli"></td>
+    </tr>
+  <!-- End Time:<input type="text"  ng-model="endTime.minutes" ><br> -->
+      <!-- <tr>
+          <td>Box Color :</td>
+          <td><input type="color" name="rectColor" ng-model="boxColor"></td>
+      </tr> -->
+
+    <tr>
+        <td id="errorMessage" style="color: red">{{errorMessage}}</td>
+    </tr>
+
+  <tr>
+    <td><button ng-click="cancelBox()" name="cancel">Cancel</button></td>
+    <td><button ng-click="submitBox()" name="submit">Submit</button></td>
+  </tr>
+
+</form>
+</ul>
