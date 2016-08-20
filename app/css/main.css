@@ -1,0 +1,187 @@
+/* 
+Custom CSS for...
+'Modern Business' HTML Theme by Start Bootstrap
+All Start Bootstrap themes are licensed under Apache 2.0. 
+For more info and more free Bootstrap 3 HTML themes, visit http://startbootstrap.com!
+*/
+
+/* Global Styles */
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu > a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover > a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left > .dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px
+}
+
+
+html, body {
+    height: 100%;
+}
+
+a.link {
+  cursor: default !important;
+}
+
+a:hover {
+ cursor: default !important;
+}
+
+
+/* 404 Page Styles */
+.error-404 {
+    font-size: 8em;
+}
+
+
+
+/* Navigation bar */
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #F5F6F7;
+  background-color: #F5F6F7;
+}
+.dropdown-menu{
+    /*background-color: #F5F6F7;*/
+    /*text-align: center;*/
+}
+
+
+
+.dropdown-menu li>a{
+    color:red; 
+}
+/*.dropdown-menu>li{padding:5px; }*/
+/*.dropdown-menu li>a:hover{
+    color:red; background:#2D2D2D; 
+}*/
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+    color: #fff;
+    background-color: #2D2D2D;
+}
+
+.navbar{
+  height: 20px; 
+  min-height: 20px;
+  position: absolute;
+  width: 100%;
+  border-radius: 0;
+}
+.nav>li>a {
+    position: relative;
+    /*display: inline;*/
+    display:-webkit-inline-box;
+    padding-bottom: 0px;
+    padding-top: 1px;
+}
+
+
+.navbar-nav {
+    margin: 1px 0px 0px 0px;
+    float:left !important;
+    line-height: 18px;
+    display: -webkit-inline-box;
+}
+.navbar-c:hover{
+/*    color: red;
+    background-color: #2D2D2D;*/
+}
+
+
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {
+    /*padding: 1px;*/
+    text-shadow: 0 0 0 rgba(0,0,0,.25); 
+    /*margin-right:10px;*/
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #000;
+}
+
+ .navbar-nav>li>a{
+   /*height:20px;*/
+   line-height: 17px;
+ }
+
+
+
+.navbar-default .navbar-nav>li>a:hover {
+    color:#000;
+    background-color: #D5E7F8;
+    border: 1px solid #7AB1E8 !important;
+    margin:-1px;
+}
+
+.navbar-default .navbar-nav>li>a:focus{
+    color:#000;
+}
+
+.navbar-default {
+  border-color: #F5F6F7;
+  background-color: #F5F6F7;
+}
+
+.navbar-collapse.in {
+  overflow-y: visible;
+}
+.dropdown-toggle:hover{
+    background-color: red;
+}
+
+
+.navbar-nav .open .dropdown-menu {
+/*    box-shadow: none;
+    border-radius: 0;
+    background-color: #2D2D2D;*/
+}
+
+
+.navbar-default {
+  /* background-image: -webkit-linear-gradient(top,#3c3c3c 0,#222 100%); */
+  background-image: -o-linear-gradient(top,#3c3c3c 0,#222 100%);
+  /* background-image: -webkit-gradient(linear,left top,left bottom,from(#3c3c3c),to(#222)); */
+  /* background-image: linear-gradient(to bottom,#FFFFFF 0,#F00 100%); */
+  /* background-repeat: repeat-x; */
+}
