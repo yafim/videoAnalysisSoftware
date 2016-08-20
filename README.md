@@ -39,6 +39,14 @@ Note! You can generate your own json file from any eye tracker using this format
 * Play the video (with log file).
 * By clicking on View->Statistics you'll be able to analyse the user's gaze during the video related to the AOIs you chose.
 
+
+#Some pictures
+![pic](https://s4.postimg.org/6a1hl76jx/1471704554496.png)
+![pic](https://s4.postimg.org/sgooe2i59/1471704602464.png)
+![statistics](https://s4.postimg.org/l1nem0t19/statistics.png)
+![heatmap](https://s4.postimg.org/vaxuew659/1471706373029.png)
+
+
 # Beta disclaimer
 Please note that this is a beta version and still undergoing final testing and modifications.
 
@@ -51,10 +59,3 @@ Yafim
 
 # License
 Copyright (c) 2015 Yafim Vodkov & Licensed under the [Apache License](LICENSE.md).
-
-#Some pictures
-![pic](https://s4.postimg.org/6a1hl76jx/1471704554496.png)
-![pic](https://s4.postimg.org/sgooe2i59/1471704602464.png)
-![statistics](https://s4.postimg.org/l1nem0t19/statistics.png)
-![heatmap](https://s4.postimg.org/vaxuew659/1471706373029.png)
-
