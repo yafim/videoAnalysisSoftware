@@ -51,10 +51,10 @@ Please note that this is a beta version and still undergoing final testing and m
 
 As a user of this beta, you’re invited to join a community of testers, reviewers, and bug-catchers. We're grateful for your help as we develop towards a stable release. We welcome feedback, suggestions, name suggestions, and the identification of flaws, glitches, and bugs.
 
-To report a bug or suggestion, please send email to : ifim.vo@gmail.com
+To report a bug or suggestion, please send email to : ifim.vo@gmail.com / michael.ido@gmail.com	
 
 Thank you again and I hope you enjoy,
-Yafim
+Yafim & Ido
 
 # License
-Copyright (c) 2016 Yafim Vodkov & Licensed under the [Apache License](LICENSE.md).
+Copyright (c) 2016 Yafim Vodkov, Ido Michael & Licensed under the [Apache License](LICENSE.md).
